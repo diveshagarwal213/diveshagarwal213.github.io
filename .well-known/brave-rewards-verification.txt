@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: diveshagarwal213.github.io
+Token: 98256c06526a67db22a3935a702ecc4867214412b2d461263ae2eaefce0732d8
