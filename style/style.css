@@ -471,6 +471,13 @@ main > div {
   min-height: 300px;
   display: flex;
   justify-content: center;
+  transform: translateY(20px);
+  opacity: 0;
+  transition: all 1s;
+}
+.experience_div.active {
+  transform: translateY(0px);
+  opacity: 1;
 }
 
 .experience_div_btns {
